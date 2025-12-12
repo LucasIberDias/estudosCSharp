@@ -1,0 +1,15 @@
+C:\Users\Agrícola Andreis\OneDrive\Documentos\estudosC#\modolo01\Aula012\bin\Debug\net10.0\Aula012.exe
+C:\Users\Agrícola Andreis\OneDrive\Documentos\estudosC#\modolo01\Aula012\bin\Debug\net10.0\Aula012.deps.json
+C:\Users\Agrícola Andreis\OneDrive\Documentos\estudosC#\modolo01\Aula012\bin\Debug\net10.0\Aula012.runtimeconfig.json
+C:\Users\Agrícola Andreis\OneDrive\Documentos\estudosC#\modolo01\Aula012\bin\Debug\net10.0\Aula012.dll
+C:\Users\Agrícola Andreis\OneDrive\Documentos\estudosC#\modolo01\Aula012\bin\Debug\net10.0\Aula012.pdb
+C:\Users\Agrícola Andreis\OneDrive\Documentos\estudosC#\modolo01\Aula012\obj\Debug\net10.0\Aula012.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Agrícola Andreis\OneDrive\Documentos\estudosC#\modolo01\Aula012\obj\Debug\net10.0\Aula012.AssemblyInfoInputs.cache
+C:\Users\Agrícola Andreis\OneDrive\Documentos\estudosC#\modolo01\Aula012\obj\Debug\net10.0\Aula012.AssemblyInfo.cs
+C:\Users\Agrícola Andreis\OneDrive\Documentos\estudosC#\modolo01\Aula012\obj\Debug\net10.0\Aula012.csproj.CoreCompileInputs.cache
+C:\Users\Agrícola Andreis\OneDrive\Documentos\estudosC#\modolo01\Aula012\obj\Debug\net10.0\Aula012.sourcelink.json
+C:\Users\Agrícola Andreis\OneDrive\Documentos\estudosC#\modolo01\Aula012\obj\Debug\net10.0\Aula012.dll
+C:\Users\Agrícola Andreis\OneDrive\Documentos\estudosC#\modolo01\Aula012\obj\Debug\net10.0\refint\Aula012.dll
+C:\Users\Agrícola Andreis\OneDrive\Documentos\estudosC#\modolo01\Aula012\obj\Debug\net10.0\Aula012.pdb
+C:\Users\Agrícola Andreis\OneDrive\Documentos\estudosC#\modolo01\Aula012\obj\Debug\net10.0\Aula012.genruntimeconfig.cache
+C:\Users\Agrícola Andreis\OneDrive\Documentos\estudosC#\modolo01\Aula012\obj\Debug\net10.0\ref\Aula012.dll
