@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Agrícola Andreis\\OneDrive\\Documentos\\estudosC#\\modolo01\\Aula008\\Aula008.csproj",
+      "projectUniqueName": "C:\\Users\\Agrícola Andreis\\Documents\\estudosCSharp\\Modolo01\\Aula008\\Aula008.csproj",
       "projectName": "Aula008",
-      "projectPath": "C:\\Users\\Agrícola Andreis\\OneDrive\\Documentos\\estudosC#\\modolo01\\Aula008\\Aula008.csproj",
+      "projectPath": "C:\\Users\\Agrícola Andreis\\Documents\\estudosCSharp\\Modolo01\\Aula008\\Aula008.csproj",
       "packagesPath": "C:\\Users\\Agrícola Andreis\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Agrícola Andreis\\OneDrive\\Documentos\\estudosC#\\modolo01\\Aula008\\obj\\",
+      "outputPath": "C:\\Users\\Agrícola Andreis\\Documents\\estudosCSharp\\Modolo01\\Aula008\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Agrícola Andreis\\AppData\\Roaming\\NuGet\\NuGet.Config",

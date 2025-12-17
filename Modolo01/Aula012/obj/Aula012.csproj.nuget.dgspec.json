@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Agrícola Andreis\\OneDrive\\Documentos\\estudosC#\\modolo01\\Aula012\\Aula012.csproj": {}
+    "C:\\Users\\Agrícola Andreis\\Documents\\estudosCSharp\\Modolo01\\Aula012\\Aula012.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Agrícola Andreis\\OneDrive\\Documentos\\estudosC#\\modolo01\\Aula012\\Aula012.csproj": {
+    "C:\\Users\\Agrícola Andreis\\Documents\\estudosCSharp\\Modolo01\\Aula012\\Aula012.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Agrícola Andreis\\OneDrive\\Documentos\\estudosC#\\modolo01\\Aula012\\Aula012.csproj",
+        "projectUniqueName": "C:\\Users\\Agrícola Andreis\\Documents\\estudosCSharp\\Modolo01\\Aula012\\Aula012.csproj",
         "projectName": "Aula012",
-        "projectPath": "C:\\Users\\Agrícola Andreis\\OneDrive\\Documentos\\estudosC#\\modolo01\\Aula012\\Aula012.csproj",
+        "projectPath": "C:\\Users\\Agrícola Andreis\\Documents\\estudosCSharp\\Modolo01\\Aula012\\Aula012.csproj",
         "packagesPath": "C:\\Users\\Agrícola Andreis\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Agrícola Andreis\\OneDrive\\Documentos\\estudosC#\\modolo01\\Aula012\\obj\\",
+        "outputPath": "C:\\Users\\Agrícola Andreis\\Documents\\estudosCSharp\\Modolo01\\Aula012\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Agrícola Andreis\\AppData\\Roaming\\NuGet\\NuGet.Config",
