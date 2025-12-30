@@ -1,0 +1,15 @@
+C:\Users\Agrícola Andreis\Documents\estudosCSharp\poo01\aula001\obj\Debug\net10.0\Aula001.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Agrícola Andreis\Documents\estudosCSharp\poo01\aula001\obj\Debug\net10.0\Aula001.AssemblyInfoInputs.cache
+C:\Users\Agrícola Andreis\Documents\estudosCSharp\poo01\aula001\obj\Debug\net10.0\Aula001.AssemblyInfo.cs
+C:\Users\Agrícola Andreis\Documents\estudosCSharp\poo01\aula001\obj\Debug\net10.0\Aula001.csproj.CoreCompileInputs.cache
+C:\Users\Agrícola Andreis\Documents\estudosCSharp\poo01\aula001\obj\Debug\net10.0\Aula001.sourcelink.json
+C:\Users\Agrícola Andreis\Documents\estudosCSharp\poo01\aula001\bin\Debug\net10.0\Aula001.exe
+C:\Users\Agrícola Andreis\Documents\estudosCSharp\poo01\aula001\bin\Debug\net10.0\Aula001.deps.json
+C:\Users\Agrícola Andreis\Documents\estudosCSharp\poo01\aula001\bin\Debug\net10.0\Aula001.runtimeconfig.json
+C:\Users\Agrícola Andreis\Documents\estudosCSharp\poo01\aula001\bin\Debug\net10.0\Aula001.dll
+C:\Users\Agrícola Andreis\Documents\estudosCSharp\poo01\aula001\bin\Debug\net10.0\Aula001.pdb
+C:\Users\Agrícola Andreis\Documents\estudosCSharp\poo01\aula001\obj\Debug\net10.0\Aula001.dll
+C:\Users\Agrícola Andreis\Documents\estudosCSharp\poo01\aula001\obj\Debug\net10.0\refint\Aula001.dll
+C:\Users\Agrícola Andreis\Documents\estudosCSharp\poo01\aula001\obj\Debug\net10.0\Aula001.pdb
+C:\Users\Agrícola Andreis\Documents\estudosCSharp\poo01\aula001\obj\Debug\net10.0\Aula001.genruntimeconfig.cache
+C:\Users\Agrícola Andreis\Documents\estudosCSharp\poo01\aula001\obj\Debug\net10.0\ref\Aula001.dll
