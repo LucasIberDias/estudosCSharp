@@ -1,0 +1,15 @@
+C:\Users\Agrícola Andreis\Documents\estudosCSharp\Utilitarios\IO\bin\Debug\net10.0\IO.exe
+C:\Users\Agrícola Andreis\Documents\estudosCSharp\Utilitarios\IO\bin\Debug\net10.0\IO.deps.json
+C:\Users\Agrícola Andreis\Documents\estudosCSharp\Utilitarios\IO\bin\Debug\net10.0\IO.runtimeconfig.json
+C:\Users\Agrícola Andreis\Documents\estudosCSharp\Utilitarios\IO\bin\Debug\net10.0\IO.dll
+C:\Users\Agrícola Andreis\Documents\estudosCSharp\Utilitarios\IO\bin\Debug\net10.0\IO.pdb
+C:\Users\Agrícola Andreis\Documents\estudosCSharp\Utilitarios\IO\obj\Debug\net10.0\IO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Agrícola Andreis\Documents\estudosCSharp\Utilitarios\IO\obj\Debug\net10.0\IO.AssemblyInfoInputs.cache
+C:\Users\Agrícola Andreis\Documents\estudosCSharp\Utilitarios\IO\obj\Debug\net10.0\IO.AssemblyInfo.cs
+C:\Users\Agrícola Andreis\Documents\estudosCSharp\Utilitarios\IO\obj\Debug\net10.0\IO.csproj.CoreCompileInputs.cache
+C:\Users\Agrícola Andreis\Documents\estudosCSharp\Utilitarios\IO\obj\Debug\net10.0\IO.sourcelink.json
+C:\Users\Agrícola Andreis\Documents\estudosCSharp\Utilitarios\IO\obj\Debug\net10.0\IO.dll
+C:\Users\Agrícola Andreis\Documents\estudosCSharp\Utilitarios\IO\obj\Debug\net10.0\refint\IO.dll
+C:\Users\Agrícola Andreis\Documents\estudosCSharp\Utilitarios\IO\obj\Debug\net10.0\IO.pdb
+C:\Users\Agrícola Andreis\Documents\estudosCSharp\Utilitarios\IO\obj\Debug\net10.0\IO.genruntimeconfig.cache
+C:\Users\Agrícola Andreis\Documents\estudosCSharp\Utilitarios\IO\obj\Debug\net10.0\ref\IO.dll
