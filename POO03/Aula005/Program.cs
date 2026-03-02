@@ -25,6 +25,6 @@ class Classe2
 {
     private int vlr = 30;
 
-    //Funciona da mesma maneira, mas sem deixar explicito 
+    //Funciona da mesma maneira, mas sem deixar explicito
     public int Vlr{get; set;}
 }
