@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Agrícola Andreis\\Documents\\estudosCSharp\\modolo02\\Aula003\\Aula003.csproj",
+      "projectUniqueName": "C:\\Users\\Agrícola Andreis\\Documents\\estudosCSharp\\Modolo02\\Aula003\\Aula003.csproj",
       "projectName": "Aula003",
-      "projectPath": "C:\\Users\\Agrícola Andreis\\Documents\\estudosCSharp\\modolo02\\Aula003\\Aula003.csproj",
+      "projectPath": "C:\\Users\\Agrícola Andreis\\Documents\\estudosCSharp\\Modolo02\\Aula003\\Aula003.csproj",
       "packagesPath": "C:\\Users\\Agrícola Andreis\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Agrícola Andreis\\Documents\\estudosCSharp\\modolo02\\Aula003\\obj\\",
+      "outputPath": "C:\\Users\\Agrícola Andreis\\Documents\\estudosCSharp\\Modolo02\\Aula003\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Agrícola Andreis\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -67,7 +67,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\10.0.100/PortableRuntimeIdentifierGraph.json",
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\10.0.103/PortableRuntimeIdentifierGraph.json",
         "packagesToPrune": {
           "Microsoft.CSharp": "(,4.7.32767]",
           "Microsoft.VisualBasic": "(,10.4.32767]",

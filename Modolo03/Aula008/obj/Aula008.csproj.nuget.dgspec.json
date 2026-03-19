@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Agrícola Andreis\\Documents\\estudosCSharp\\modolo03\\Aula008\\Aula008.csproj": {}
+    "C:\\Users\\Agrícola Andreis\\Documents\\estudosCSharp\\Modolo03\\Aula008\\Aula008.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Agrícola Andreis\\Documents\\estudosCSharp\\modolo03\\Aula008\\Aula008.csproj": {
+    "C:\\Users\\Agrícola Andreis\\Documents\\estudosCSharp\\Modolo03\\Aula008\\Aula008.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Agrícola Andreis\\Documents\\estudosCSharp\\modolo03\\Aula008\\Aula008.csproj",
+        "projectUniqueName": "C:\\Users\\Agrícola Andreis\\Documents\\estudosCSharp\\Modolo03\\Aula008\\Aula008.csproj",
         "projectName": "Aula008",
-        "projectPath": "C:\\Users\\Agrícola Andreis\\Documents\\estudosCSharp\\modolo03\\Aula008\\Aula008.csproj",
+        "projectPath": "C:\\Users\\Agrícola Andreis\\Documents\\estudosCSharp\\Modolo03\\Aula008\\Aula008.csproj",
         "packagesPath": "C:\\Users\\Agrícola Andreis\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Agrícola Andreis\\Documents\\estudosCSharp\\modolo03\\Aula008\\obj\\",
+        "outputPath": "C:\\Users\\Agrícola Andreis\\Documents\\estudosCSharp\\Modolo03\\Aula008\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Agrícola Andreis\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -61,7 +61,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\10.0.100/PortableRuntimeIdentifierGraph.json",
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\10.0.103/PortableRuntimeIdentifierGraph.json",
           "packagesToPrune": {
             "Microsoft.CSharp": "(,4.7.32767]",
             "Microsoft.VisualBasic": "(,10.4.32767]",
