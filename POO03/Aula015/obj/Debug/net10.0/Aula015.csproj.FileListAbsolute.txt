@@ -1,0 +1,15 @@
+C:\Users\lucas\OneDrive\Documentos\estudosCSharp\POO03\Aula015\bin\Debug\net10.0\Aula015.exe
+C:\Users\lucas\OneDrive\Documentos\estudosCSharp\POO03\Aula015\bin\Debug\net10.0\Aula015.deps.json
+C:\Users\lucas\OneDrive\Documentos\estudosCSharp\POO03\Aula015\bin\Debug\net10.0\Aula015.runtimeconfig.json
+C:\Users\lucas\OneDrive\Documentos\estudosCSharp\POO03\Aula015\bin\Debug\net10.0\Aula015.dll
+C:\Users\lucas\OneDrive\Documentos\estudosCSharp\POO03\Aula015\bin\Debug\net10.0\Aula015.pdb
+C:\Users\lucas\OneDrive\Documentos\estudosCSharp\POO03\Aula015\obj\Debug\net10.0\Aula015.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lucas\OneDrive\Documentos\estudosCSharp\POO03\Aula015\obj\Debug\net10.0\Aula015.AssemblyInfoInputs.cache
+C:\Users\lucas\OneDrive\Documentos\estudosCSharp\POO03\Aula015\obj\Debug\net10.0\Aula015.AssemblyInfo.cs
+C:\Users\lucas\OneDrive\Documentos\estudosCSharp\POO03\Aula015\obj\Debug\net10.0\Aula015.csproj.CoreCompileInputs.cache
+C:\Users\lucas\OneDrive\Documentos\estudosCSharp\POO03\Aula015\obj\Debug\net10.0\Aula015.sourcelink.json
+C:\Users\lucas\OneDrive\Documentos\estudosCSharp\POO03\Aula015\obj\Debug\net10.0\Aula015.dll
+C:\Users\lucas\OneDrive\Documentos\estudosCSharp\POO03\Aula015\obj\Debug\net10.0\refint\Aula015.dll
+C:\Users\lucas\OneDrive\Documentos\estudosCSharp\POO03\Aula015\obj\Debug\net10.0\Aula015.pdb
+C:\Users\lucas\OneDrive\Documentos\estudosCSharp\POO03\Aula015\obj\Debug\net10.0\Aula015.genruntimeconfig.cache
+C:\Users\lucas\OneDrive\Documentos\estudosCSharp\POO03\Aula015\obj\Debug\net10.0\ref\Aula015.dll

@@ -1,27 +1,25 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Agrícola Andreis\\Documents\\estudosCSharp\\POO01\\Aula004\\Aula004.csproj": {}
+    "C:\\Users\\lucas\\OneDrive\\Documentos\\estudosCSharp\\POO01\\Aula004\\Aula004.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Agrícola Andreis\\Documents\\estudosCSharp\\POO01\\Aula004\\Aula004.csproj": {
+    "C:\\Users\\lucas\\OneDrive\\Documentos\\estudosCSharp\\POO01\\Aula004\\Aula004.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Agrícola Andreis\\Documents\\estudosCSharp\\POO01\\Aula004\\Aula004.csproj",
+        "projectUniqueName": "C:\\Users\\lucas\\OneDrive\\Documentos\\estudosCSharp\\POO01\\Aula004\\Aula004.csproj",
         "projectName": "Aula004",
-        "projectPath": "C:\\Users\\Agrícola Andreis\\Documents\\estudosCSharp\\POO01\\Aula004\\Aula004.csproj",
-        "packagesPath": "C:\\Users\\Agrícola Andreis\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Agrícola Andreis\\Documents\\estudosCSharp\\POO01\\Aula004\\obj\\",
+        "projectPath": "C:\\Users\\lucas\\OneDrive\\Documentos\\estudosCSharp\\POO01\\Aula004\\Aula004.csproj",
+        "packagesPath": "C:\\Users\\lucas\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\lucas\\OneDrive\\Documentos\\estudosCSharp\\POO01\\Aula004\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\Agrícola Andreis\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+          "C:\\Users\\lucas\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net10.0"
         ],
         "sources": {
-          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
