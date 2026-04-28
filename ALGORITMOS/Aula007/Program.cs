@@ -10,6 +10,9 @@ class Program
         listaEncadeada.AddFirst(20);
         listaEncadeada.AddLast(30);
 
-
+        foreach (var item in listaEncadeada)
+        {
+            System.Console.WriteLine(item);
+        }
     }
 }
