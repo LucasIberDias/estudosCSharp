@@ -4,6 +4,13 @@ class Program
 {
     static void Main(string[] args)
     {
-        Console.WriteLine("Hello, World!");
+        string pastas = @"C:\Users\Agrícola Andreis\Documents\estudosCSharp";
+
+        string[] dirs = Directory.GetDirectories(pastas, "*", SearchOption.All);
+
+        foreach(var dir in dirs)
+        {
+            System.Console.WriteLine(dir);
+        }
     }
 }
